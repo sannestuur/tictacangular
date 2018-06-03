@@ -9,7 +9,7 @@ To be able to run this application, you'll need to install the following softwar
  * Node JS LTS https://nodejs.org/en/
  * Yarn https://yarnpkg.com
 
-## INSTALLATION 
+## INSTALLATION
 To start the application, simply open your favourite console / terminal.
 
 To install all dependencies needed by this application
@@ -23,6 +23,7 @@ start the development server:
 yarn start
 ```
 You can now open your browser on http://localhost:4200/ to view the application
+//changed to http://localhost:5000/
 
 ## TESTING
 to run and watch the unit tests:
